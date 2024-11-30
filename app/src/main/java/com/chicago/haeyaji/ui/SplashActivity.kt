@@ -1,8 +1,9 @@
-package com.chicago.haeyaji
+package com.chicago.haeyaji.ui
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.chicago.haeyaji.R
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.delay
